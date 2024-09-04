@@ -1,6 +1,6 @@
 # Interview Questions
 
-Q: What is AWS IAM, and why is it important?A: AWS IAM (Identity and Access Management) is a service provided by Amazon Web https://github.com/Anilkumar9573/IAM/blob/main/interview%20questionsServices that helps you control access to your AWS resources. It allows you to manage user identities, permissions, and policies. IAM is important because it enhances security by ensuring that only authorized individuals or entities have access to your AWS resources, helping you enforce the principle of least privilege and maintain a secure environment.
+Q: What is AWS IAM, and why is it important?A: AWS IAM (Identity and Access Management) is a service provided by Amazon Web questionsServices that helps you control access to your AWS resources. It allows you to manage user identities, permissions, and policies. IAM is important because it enhances security by ensuring that only authorized individuals or entities have access to your AWS resources, helping you enforce the principle of least privilege and maintain a secure environment.
 
 Q: What is the difference between IAM users and IAM roles?
 A: IAM users represent individual people or entities that need access to your AWS resources. They have their own credentials and are typically associated with long-term access. On the other hand, IAM roles are used to grant temporary access to AWS resources, usually for applications or services. Roles have associated policies and can be assumed by trusted entities to access resources securely.
